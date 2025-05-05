@@ -3410,3 +3410,15 @@ input, select, textarea {
 			}
 
 	}
+
+	.central-buttons {
+		width: 80%;
+		display: inline-block;
+	}
+	.flexy-inner {
+		display: flex;
+		justify-content: space-between;
+	}
+	.fit-content-div {
+		width: fit-content;
+	}
