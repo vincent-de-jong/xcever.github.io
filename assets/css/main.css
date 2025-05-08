@@ -3421,4 +3421,7 @@ input, select, textarea {
 	}
 	.fit-content-div {
 		width: fit-content;
+		
+		background-color: rgba(0,0,0,0.5);
+
 	}
